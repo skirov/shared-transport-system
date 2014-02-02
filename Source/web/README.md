@@ -1,2 +1,2 @@
-# STS-Source
+# web
 ### a Sails application
