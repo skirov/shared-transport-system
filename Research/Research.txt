@@ -1,1 +1,5 @@
-Research goes here.
+Node.js tutorials:
+- http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js
+
+Integration Testing for Node.js
+- http://zombie.labnotes.org/
